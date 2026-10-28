@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Villa",
+        "children": [
+            {
+                "name": "Crypt",
+                "chest_unopened_img": "",
+                "chest_opened_img": "",
+                "sections": [
+                    {
+                        "name": "Left from entrance"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "crypt_map",
+                        "x": 471,
+                        "y": 1288,
+                        "size": 16
+                    }
+                ]
+            }
+        ]
+    }
+]

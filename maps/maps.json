@@ -1,0 +1,116 @@
+[
+    {
+        "name": "overview_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Overview.png"
+    },
+    {
+        "name": "forest_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Forest_of_Silence.png"
+    },
+    {
+        "name": "wall_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Castle_Wall.png"
+    },
+    {
+        "name": "yard_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Villa_Yard.png"
+    },
+    {
+        "name": "mansion_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Villa_Mansion.png"
+    },
+    {
+        "name": "maze_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Villa_Maze.png"
+    },
+    {
+        "name": "crypt_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Villa_Crypt.png"
+    },
+    {
+        "name": "tunnel_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Tunnel.png"
+    },
+    {
+        "name": "waterway_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Waterway.png"
+    },
+    {
+        "name": "center_basement_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Center_Basement.png"
+    },
+    {
+        "name": "center_ground_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Center_Ground.png"
+    },
+    {
+        "name": "center_upper_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Center_Upper.png"
+    },
+    {
+        "name": "duel_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Duel.png"
+    },
+    {
+        "name": "execution_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Execution.png"
+    },
+    {
+        "name": "science_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Science.png"
+    },
+    {
+        "name": "scorcery_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Scorcery.png"
+    },
+    {
+        "name": "clocks_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Clocks.png"
+    },
+    {
+        "name": "clocktower_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Clocktower.png"
+    },
+    {
+        "name": "keep_map",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "img": "/images/maps/Keep.png"
+    }
+]
