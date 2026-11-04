@@ -1,25 +1,390 @@
 [
-    {
-        "name": "Villa",
-        "children": [
-            {
-                "name": "Crypt",
-                "chest_unopened_img": "",
-                "chest_opened_img": "",
-                "sections": [
-                    {
-                        "name": "Left from entrance"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "crypt_map",
-                        "x": 471,
-                        "y": 1288,
-                        "size": 16
-                    }
-                ]
-            }
+  {
+    "name": "Villa",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Outer front gate platform",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Inner front gate dog food",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Front yard cross grave near gates",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Front yard cross grave near porch",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Front yard visitors tombstone",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Foyer upper-right pot",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Foyer upper-left pot",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Foyer sofa",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Rose garden staircase bottom",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Bedroom near chairs",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Bedroom near bed",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Vincent",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Marys room table",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Marys room corner",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Dining room rose vase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Living room clawed painting",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Living room ceiling light",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Living room lion head",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Maze garden exit knight",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Storeroom statue",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Archives near entrance",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Archives table",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Archives rear corner",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Servants path small alcove",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Servants entrance",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Crypt entrance",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Crypt bridge upstream",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Outer front gate",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
         ]
-    }
+      },
+      {
+        "name": "Midnight fountain",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Front-left"
+          },
+          {
+            "name": "Front-right"
+          },
+          {
+            "name": "Middle-left"
+          },
+          {
+            "name": "Middle-right"
+          },
+          {
+            "name": "Rear-left"
+          },
+          {
+            "name": "Rear-right"
+          }
+        ]
+      },
+      {
+        "name": "Foyer lower level",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Front-right"
+          },
+          {
+            "name": "Front-left"
+          },
+          {
+            "name": "Middle-left"
+          },
+          {
+            "name": "Middle-right"
+          },
+          {
+            "name": "Rear-right"
+          },
+          {
+            "name": "Rear-left"
+          }
+        ]
+      },
+      {
+        "name": "Foyer chandelier",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          }
+        ]
+      },
+      {
+        "name": "Hallway near rose garden stairs",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      },
+      {
+        "name": "Living room",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Right pot"
+          },
+          {
+            "name": "Left pot"
+          }
+        ]
+      },
+      {
+        "name": "Storeroom",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      },
+      {
+        "name": "Front maze garden",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Malus start torch"
+          },
+          {
+            "name": "Maluss hiding bush"
+          },
+          {
+            "name": "Viewing platform"
+          },
+          {
+            "name": "Frankies left dead-end"
+          },
+          {
+            "name": "Frankies right dead-end"
+          },
+          {
+            "name": "Frankies right dead-end urn"
+          }
+        ]
+      },
+      {
+        "name": "Rear maze garden",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [
+          {
+            "name": "Iron Thorn Fenced area",
+            "access_rules": [],
+            "visibility_rules": [""],
+            "chest_unopened_img": "",
+            "chest_opened_img": "",
+            "children": [],
+            "sections": [
+              {
+                "name": "Front"
+              },
+              {
+                "name": "Mid-front"
+              },
+              {
+                "name": "Mid-rear"
+              },
+              {
+                "name": "Rear"
+              }
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "name": "Viewing platform"
+          },
+          {
+            "name": "Viewing platform dead-end"
+          },
+          {
+            "name": "Past-exit dead-end"
+          }
+        ]
+      },
+      {
+        "name": "Crypt",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left from entrance"
+          },
+          {
+            "name": "Right from entrance"
+          },
+          {
+            "name": "Left wall"
+          },
+          {
+            "name": "Right wall"
+          },
+          {
+            "name": "Left of coffin"
+          },
+          {
+            "name": "Right of coffin"
+          }
+        ]
+      }
+    ]
+  }
 ]

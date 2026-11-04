@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Castle Wall",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Above bottom right tower door",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "White Dragons switch door",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Central rampart near right tower",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Central rampart near left tower",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Central rampart broken pillar",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Sandbag shelf floor torch",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Above bottom left tower door",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Left tower child ledge",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Dracula cutscene switch door",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Central rampart savepoint slab",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          }
+        ]
+      },
+      {
+        "name": "Sandbag shelf",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Visible"
+          },
+          {
+            "name": "Invisible"
+          }
+        ]
+      },
+      {
+        "name": "Ground gatehouse",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Middle"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      },
+      {
+        "name": "Dracula cutscene switch slab",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          }
+        ]
+      }
+    ]
+  }
+]

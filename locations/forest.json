@@ -1,13 +1,13 @@
 [
-    {
-        "name": "Forest of Silence",
-        "children":[
-            {
-            "name": "Practice Pillars",
-            "access_rules": [],
-            "chest_unopened_img": "images/items/lit_torch.png",
-            "chest_opened_img":  "images/items/unlit_torch.png",
-            "sections": [
+  {
+    "name": "Forest of Silence",
+    "children": [
+      {
+        "name": "Practice Pillars",
+        "access_rules": [],
+        "chest_unopened_img": "images/items/lit_torch.png",
+        "chest_opened_img": "images/items/unlit_torch.png",
+        "sections": [
           {
             "name": "Forest of Silence: Grab practice pillars - Left"
           },
@@ -27,6 +27,6 @@
           }
         ]
       }
-        ]
-    }
+    ]
+  }
 ]

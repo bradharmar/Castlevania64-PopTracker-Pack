@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Underground Waterway",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Near entrance corridor",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Across from entrance",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Across poison parkour ledges",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Waterfall alcove ledge",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Brick platforms save corridor",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Above skeleton crusher ledge",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "First poison parkour ledge",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          },
+          {
+            "name": "Item 6"
+          }
+        ]
+      },
+      {
+        "name": "Carrie crawlspace corridor",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "First left"
+          },
+          {
+            "name": "Second left"
+          }
+        ]
+      },
+      {
+        "name": "Inside skeleton crusher ledge",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          }
+        ]
+      }
+    ]
+  }
+]

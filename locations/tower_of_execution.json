@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Tower of Execution",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Electric grate ledge",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invisible bridge ledge",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Guillotine tower top level",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Pre-mid-savepoint platforms ledge",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          }
+        ]
+      },
+      {
+        "name": "Past mid-savepoint spikes",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Right"
+          },
+          {
+            "name": "Left"
+          }
+        ]
+      },
+      {
+        "name": "Key gate alcove",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      }
+    ]
+  }
+]

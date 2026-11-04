@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Duel Tower",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Stepping stone path start",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Stepping stone path end",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Above Were-bull arena",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Invisible bridge balcony",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      }
+    ]
+  }
+]

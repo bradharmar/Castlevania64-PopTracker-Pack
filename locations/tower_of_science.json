@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Tower of Science",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Elevator hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Plain sight side room",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Staircase side room",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Pick-a-door hallway locked middle room",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invisible bridge platform torch",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Spiky conveyor side room",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Exit hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Invisible bridge platform crate",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          },
+          {
+            "name": "Item 6"
+          }
+        ]
+      },
+      {
+        "name": "Locked Key3 room",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Right"
+          },
+          {
+            "name": "Middle"
+          },
+          {
+            "name": "Left"
+          }
+        ]
+      }
+    ]
+  }
+]

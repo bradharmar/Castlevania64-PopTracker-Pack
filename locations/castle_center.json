@@ -1,0 +1,400 @@
+[
+  {
+    "name": "Castle Center",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Entrance hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Basement hallway junction",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Torture chamber hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Behemoth arena hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Near elevator room machine",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Atop elevator room machine",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Elevator pipe device",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Near elevator switch",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Elevator room staircase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Red carpet hall knight",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Gear room side",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Gear room center",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Gear room corner",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Lizard locker knight",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Near lizard locker knight",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Lizard locker room near pit",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Lizard locker room corner",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Far-right near-side lizard locker",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Mid-right near-side lizard locker",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Mid-left near-side lizard locker",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Far-left near-side lizard locker",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Left far-side lizard locker",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Right far-side lizard locker",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Torture chamber instrument rack",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Torture chamber rafters",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Broken staircase floor",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Broken staircase knight",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Above broken staircase savepoint",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Butler bros. room near door",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Butler bros. room inner",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Past butler room flamethrowers",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Inside cracked wall hallway flamethrower",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Past upper cracked wall flamethrowers",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Heinrich Meyer",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Nitro room crates",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Hell Knight landing corner knight",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Maid sisters room vase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Maid sisters room outer table",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Maid sisters room inner table",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invention room maid sisters door",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invention room spike crusher door",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invention room giant Famicart",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invention room zeppelin",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invention room round machine",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Inside nitro hallway flamethrower",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Past nitro room flamethrowers",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Inside upper cracked wall",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Library bookshelf",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Behemoth arena",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left far-front torch"
+          },
+          {
+            "name": "Left mid-front torch"
+          },
+          {
+            "name": "Left mid-rear torch"
+          },
+          {
+            "name": "Left far-rear torch"
+          },
+          {
+            "name": "Right far-front torch"
+          },
+          {
+            "name": "Right mid-front torch"
+          },
+          {
+            "name": "Right mid-rear torch"
+          },
+          {
+            "name": "Right far-rear torch"
+          }
+        ]
+      },
+      {
+        "name": "Behemoth arena crate",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          }
+        ]
+      },
+      {
+        "name": "Elevator room unoccupied statue stand",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          }
+        ]
+      },
+      {
+        "name": "Lizard locker room slab",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          }
+        ]
+      },
+      {
+        "name": "Mandragora shelf",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      },
+      {
+        "name": "Stained Glass Knight room",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      },
+      {
+        "name": "Magical Nitro shelf",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Heinrich side"
+          },
+          {
+            "name": "Invention side"
+          }
+        ]
+      }
+    ]
+  }
+]

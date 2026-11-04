@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Renons shop",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Roast Chicken purchase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Roast Beef purchase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Healing Kit purchase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Purifying purchase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Cure Ampoule purchase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Sun Card purchase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Moon Card purchase",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ]
+  }
+]
