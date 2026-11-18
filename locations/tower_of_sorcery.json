@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Tower of Sorcery",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Stained glass tower",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Mid-savepoint platform",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Trick shot from mid-savepoint platform",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Above yellow bubble",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Above tiny blue platforms start",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Lone red platform side island",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invisible bridge platform",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ]
+  }
+]

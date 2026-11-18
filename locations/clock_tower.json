@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Clock Tower",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Gear climb room corner",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Gear climb room side",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Bone Pillar chasm room key alcove",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Final room key ledge",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Gear climb room beneath battery slab",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          }
+        ]
+      },
+      {
+        "name": "Gear climb room beneath door slab",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          }
+        ]
+      },
+      {
+        "name": "Bone Pillar chasm room",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Front-left"
+          },
+          {
+            "name": "Front-right"
+          },
+          {
+            "name": "Rear-left"
+          }
+        ]
+      },
+      {
+        "name": "Final room entrance slab",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          }
+        ]
+      },
+      {
+        "name": "Final room floor",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "front-left"
+          },
+          {
+            "name": "front-right"
+          },
+          {
+            "name": "rear-left"
+          },
+          {
+            "name": "rear-right"
+          }
+        ]
+      },
+      {
+        "name": "Renons final offers slab",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          },
+          {
+            "name": "Item 6"
+          },
+          {
+            "name": "Item 7"
+          },
+          {
+            "name": "Item 8"
+          }
+        ]
+      }
+    ]
+  }
+]

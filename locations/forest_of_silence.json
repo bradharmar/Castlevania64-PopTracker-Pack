@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Forest of Silence",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "King Skeletons bridge",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Moon gazebo inside",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Moon gazebo roof",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Sun gazebo inside",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Sun gazebo roof",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Were-tiger switch",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Dirge maiden gate",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Dirge maiden pedestal plaque",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Dirge maiden pedestal",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Tri-corpse save junction",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Descending bridge wall side",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Descending bridge switch side",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Invisible bridge platform",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Werewolf statue plaque",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Werewolf path near tree",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Werewolf path island switch platforms",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Three-crypt plaza switch",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ],
+    "children": [
+      {
+        "name": "Grab practice pillars",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Right"
+          },
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Top"
+          }
+        ]
+      },
+      {
+        "name": "Dirge maiden crypt",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Lower"
+          },
+          {
+            "name": "Upper"
+          }
+        ]
+      },
+      {
+        "name": "Dirge maiden rock",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          },
+          {
+            "name": "Item 5"
+          }
+        ]
+      },
+      {
+        "name": "Tri-corpse gate",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      },
+      {
+        "name": "Three-crypt plaza main path crypt",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Lower"
+          },
+          {
+            "name": "Upper-rear"
+          },
+          {
+            "name": "Upper-front"
+          }
+        ]
+      },
+      {
+        "name": "Three-crypt plaza back-facing crypt",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Lower-front"
+          },
+          {
+            "name": "Lower-rear"
+          },
+          {
+            "name": "Upper"
+          }
+        ]
+      },
+      {
+        "name": "Bat archway rock",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Item 1"
+          },
+          {
+            "name": "Item 2"
+          },
+          {
+            "name": "Item 3"
+          },
+          {
+            "name": "Item 4"
+          }
+        ]
+      },
+      {
+        "name": "Werewolf crypt",
+        "access_rules": [],
+        "visibility_rules": [""],
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [],
+        "sections": [
+          {
+            "name": "Left-front"
+          },
+          {
+            "name": "Left-rear"
+          },
+          {
+            "name": "Right"
+          }
+        ]
+      }
+    ]
+  }
+]

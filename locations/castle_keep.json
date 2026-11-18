@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Castle Keep",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Left Dracula door flame",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Right Dracula door flame",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Behind Draculas chamber",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Draculas floating cube",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ]
+  }
+]

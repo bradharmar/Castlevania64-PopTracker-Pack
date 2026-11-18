@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Room of Clocks",
+    "access_rules": [],
+    "chest_unopened_img": "",
+    "chest_opened_img": "",
+    "sections": [
+      {
+        "name": "Left from entrance hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Right from entrance hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Right of elevator hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Left of elevator hallway",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Right of Contract",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Left of Contract",
+        "access_rules": [],
+        "visibility_rules": [""]
+      },
+      {
+        "name": "Left of exit",
+        "access_rules": [],
+        "visibility_rules": [""]
+      }
+    ]
+  }
+]
