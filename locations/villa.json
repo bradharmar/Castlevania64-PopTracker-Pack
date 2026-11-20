@@ -1,7 +1,7 @@
 [
   {
     "name": "Villa",
-    "access_rules": [],
+    "access_rules": ["COK"],
     "chest_unopened_img": "",
     "chest_opened_img": "",
     "children": [

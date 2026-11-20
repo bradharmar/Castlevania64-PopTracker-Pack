@@ -19,8 +19,8 @@
         "map_locations": [
           {
             "map": "duel_map",
-            "x": 1,
-            "y": 1
+            "x": 720,
+            "y": 890
           }
         ]
       },
@@ -37,8 +37,8 @@
         "map_locations": [
           {
             "map": "duel_map",
-            "x": 5,
-            "y": 5
+            "x": 339,
+            "y": 592
           }
         ]
       },
@@ -56,17 +56,13 @@
         "map_locations": [
           {
             "map": "duel_map",
-            "x": 20,
-            "y": 20
+            "x": 317,
+            "y": 977
           }
         ]
       },
       {
         "name": "Invisible bridge balcony",
-        "access_rules": [],
-        "visibility_rules": [
-          ""
-        ],
         "sections": [
           {
             "name": "Left"
@@ -77,8 +73,8 @@
         ],
         "map_locations": [{
           "map": "duel_map",
-          "x": 200,
-          "y": 200
+          "x": 713,
+          "y": 1025
         }]
       }
     ]

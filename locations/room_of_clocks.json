@@ -7,24 +7,20 @@
     "children": [
       {
         "name": "Left from entrance hallway",
-        "access_rules": [],
-        "visibility_rules": [
-          ""
+        "map_locations": [
+          {
+            "map": "clocks_map",
+            "x": 1387,
+            "y": 370
+          }
         ],
         "sections": [
           {
             "name": "Left from entrance hallway"
           }
-        ],
-        "map_locations": [
-          {
-            "map": "clocks_map",
-            "x": 1853,
-            "y": 550
-          }
         ]
       },
- {
+      {
         "name": "Right from entrance hallway",
         "access_rules": [],
         "visibility_rules": [
@@ -38,12 +34,12 @@
         "map_locations": [
           {
             "map": "clocks_map",
-            "x": 1853,
-            "y": 550
+            "x": 1144,
+            "y": 370
           }
         ]
       },
-       {
+      {
         "name": "Right of elevator hallway",
         "access_rules": [],
         "visibility_rules": [
@@ -57,8 +53,8 @@
         "map_locations": [
           {
             "map": "clocks_map",
-            "x": 1853,
-            "y": 550
+            "x": 1000,
+            "y": 522
           }
         ]
       },
@@ -76,12 +72,12 @@
         "map_locations": [
           {
             "map": "clocks_map",
-            "x": 1853,
-            "y": 550
+            "x": 1000,
+            "y": 746
           }
         ]
       },
-       {
+      {
         "name": "Right of Contract",
         "access_rules": [],
         "visibility_rules": [
@@ -95,12 +91,12 @@
         "map_locations": [
           {
             "map": "clocks_map",
-            "x": 1853,
-            "y": 550
+            "x": 1155,
+            "y": 859
           }
         ]
       },
-       {
+      {
         "name": "Left of Contract",
         "access_rules": [],
         "visibility_rules": [
@@ -114,12 +110,12 @@
         "map_locations": [
           {
             "map": "clocks_map",
-            "x": 1853,
-            "y": 550
+            "x": 1359,
+            "y": 859
           }
         ]
       },
-       {
+      {
         "name": "Left of exit",
         "access_rules": [],
         "visibility_rules": [
@@ -133,8 +129,8 @@
         "map_locations": [
           {
             "map": "clocks_map",
-            "x": 1853,
-            "y": 550
+            "x": 1495,
+            "y": 748
           }
         ]
       }

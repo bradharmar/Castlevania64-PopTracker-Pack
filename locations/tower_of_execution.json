@@ -4,31 +4,49 @@
     "access_rules": [],
     "chest_unopened_img": "",
     "chest_opened_img": "",
-    "sections": [
+    "children": [
       {
         "name": "Electric grate ledge",
-        "access_rules": [],
-        "visibility_rules": [""]
+        "map_locations": [
+          {
+            "map": "execution_map",
+            "x": 508,
+            "y": 1013
+          }
+        ],
+        "sections": [
+          {
+            "name":"Electric grate ledge"
+          }
+        ]
       },
       {
-        "name": "Invisible bridge ledge",
-        "access_rules": [],
-        "visibility_rules": [""]
+        "name": "Invisible bridge ledge"
       },
       {
         "name": "Guillotine tower top level",
-        "access_rules": [],
-        "visibility_rules": [""]
-      }
-    ],
-    "children": [
+        "map_locations": [
+          {
+            "map": "execution_map",
+            "x": 1036,
+            "y": 540
+          }
+        ],
+        "sections": [
+          {
+            "name": "Guillotine tower top level"
+          }
+        ]
+      },
       {
         "name": "Pre-mid-savepoint platforms ledge",
-        "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "map_locations": [
+          {
+            "map": "execution_map",
+            "x": 959,
+            "y": 207
+          }
+        ],
         "sections": [
           {
             "name": "Item 1"
@@ -43,17 +61,20 @@
             "name": "Item 4"
           },
           {
-            "name": "Item 5"
+            "name": "Item 5",
+            "desccription": "Subweapon Setting"
           }
         ]
       },
       {
         "name": "Past mid-savepoint spikes",
-        "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "map_locations": [
+          {
+            "map": "execution_map",
+            "x": 528,
+            "y": 903
+          }
+        ],
         "sections": [
           {
             "name": "Right"
@@ -65,11 +86,6 @@
       },
       {
         "name": "Key gate alcove",
-        "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
         "sections": [
           {
             "name": "Left"

@@ -1,0 +1,71 @@
+[
+        {
+        "name": "Sub-Weapon Shuffle",
+        "type": "toggle",
+        "loop": true,
+        "codes": "SubWeaponShuffleSetting"
+    },
+    {
+        "name": "Multi-hit Breakables",
+        "type": "toggle",
+        "loop": true,
+        "codes": "MultiHitBreakablesSetting"
+    },
+    {
+        "name": "Empty Breakables",
+        "type": "toggle",
+        "loop": true,
+        "codes": "EmptyBreakablesSetting"
+    },
+    {
+        "name": "Lizard Locker Items",
+        "type": "toggle",
+        "loop": true,
+        "codes": "LizardLockerItemsSetting"
+    },
+    {
+        "name": "Shopsanity",
+        "type": "toggle",
+        "loop": true,
+        "codes": "ShopsanitySetting"
+    },
+    {
+        "name": "Character Stages"
+    },
+    {
+        "name": "Stage Shuffle"
+    },
+    {
+        "name": "Total Special1"
+    },
+    {
+        "name": "Special1 per warp"
+    },
+    {
+        "name": "Total Special2"
+    },
+    {
+        "name": "Percent Special2 Required"
+    },
+    {
+        "name": "Dracula's Condition"
+    },
+    {
+        "name": "Carrie Logic",
+        "type": "toggle",
+        "loop": true,
+        "codes": "CarrieLogicSetting"
+    },
+    {
+        "name": "Hard Logic",
+        "type": "toggle",
+        "loop": true,
+        "codes": "HardLogicSetting"
+    },
+    {
+        "name": "Permanent PowerUps",
+        "type": "toggle",
+        "loop": true,
+        "codes": "PermanentPowerUpsSetting"
+    }
+]
