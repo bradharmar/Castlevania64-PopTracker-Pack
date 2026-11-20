@@ -4,111 +4,229 @@
     "access_rules": [],
     "chest_unopened_img": "",
     "chest_opened_img": "",
-    "sections": [
+    "children": [
       {
         "name": "Landing point",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Landing point rock crusher",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Twin arrow signs",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Near lonesome bucket",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Lonesome bucket moon door",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Lonesome bucket poison pit",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Lonesome bucket-Albert junction",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Alberts campsite",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Alberts poison pit",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Gondola rock crusher",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Red gondola station",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Gondola transfer point",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ]
       },
       {
         "name": "Corpse bucket poison pit",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 803,
+            "y": 120
+          }
+        ],
+        "sections": [
+          {
+            "name": "Corpse bucket poison pit"
+          }
+        ]
       },
       {
         "name": "Shovel poison pit start",
-        "access_rules": [],
-        "visibility_rules": [""]
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 709,
+            "y": 408
+          }
+        ],
+        "sections": [
+          {
+            "name": "Shovel poison pit start"
+          }
+        ]
       },
       {
         "name": "Exit door poison pit start",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 732,
+            "y": 520
+          }
+        ],
+        "sections": [
+          {
+            "name": "Exit door poison pit start"
+          }
+        ]
       },
       {
         "name": "Shovel poison pit end",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 469,
+            "y": 220
+          }
+        ],
+        "sections": [
+          {
+            "name": "Shovel poison pit end"
+          }
+        ]
       },
       {
         "name": "Exit door poison pit end",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 498,
+            "y": 737
+          }
+        ],
+        "sections": [
+          {
+            "name": "Exit door poison pit end"
+          }
+        ]
       },
       {
         "name": "Shovel",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 474,
+            "y": 250
+          }
+        ],
+        "sections": [
+          {
+            "name": "Shovel"
+          }
+        ]
       },
       {
         "name": "Shovel zone save junction",
         "access_rules": [],
-        "visibility_rules": [""]
-      }
-    ],
-    "children": [
+        "visibility_rules": [
+          ""
+        ],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 342,
+            "y": 280
+          }
+        ],
+        "sections": [
+          {
+            "name": "Shovel zone save junction"
+          }
+        ]
+      },
       {
         "name": "Stepping stone alcove",
-        "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 460,
+            "y": 1282
+          }
+        ],
         "sections": [
           {
             "name": "Right"
@@ -121,7 +239,9 @@
       {
         "name": "Twin arrow signs rock",
         "access_rules": [],
-        "visibility_rules": [""],
+        "visibility_rules": [
+          ""
+        ],
         "chest_unopened_img": "",
         "chest_opened_img": "",
         "children": [],
@@ -146,7 +266,9 @@
       {
         "name": "Lonesome bucket poison pit rock",
         "access_rules": [],
-        "visibility_rules": [""],
+        "visibility_rules": [
+          ""
+        ],
         "chest_unopened_img": "",
         "chest_opened_img": "",
         "children": [],
@@ -164,11 +286,13 @@
       },
       {
         "name": "Gondola rock crusher sun door",
-        "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 1125,
+            "y": 1234
+          }
+        ],
         "sections": [
           {
             "name": "Left"
@@ -184,10 +308,16 @@
       {
         "name": "Corpse bucket moon door",
         "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "visibility_rules": [
+          ""
+        ],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 1050,
+            "y": 237
+          }
+        ],
         "sections": [
           {
             "name": "Left"
@@ -199,11 +329,13 @@
       },
       {
         "name": "Shovel zone moon door",
-        "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 53,
+            "y": 235
+          }
+        ],
         "sections": [
           {
             "name": "Left"
@@ -215,11 +347,13 @@
       },
       {
         "name": "Shovel zone sun door",
-        "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "map_locations": [
+          {
+            "map": "tunnel_map",
+            "x": 320,
+            "y": 508
+          }
+        ],
         "sections": [
           {
             "name": "Left"

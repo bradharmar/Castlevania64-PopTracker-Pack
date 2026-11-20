@@ -20,8 +20,22 @@ Tracker:AddLayouts("layouts/tracker.json")
 
 -- Locations
 Tracker:AddMaps("maps/maps.json")
-Tracker:AddLocations("locations/forest.json")
+Tracker:AddLocations("locations/overview.json")
+Tracker:AddLocations("locations/castle_center.json")
+Tracker:AddLocations("locations/castle_keep.json")
+Tracker:AddLocations("locations/castle_wall.json")
+Tracker:AddLocations("locations/clock_tower.json")
+Tracker:AddLocations("locations/duel_tower.json")
+Tracker:AddLocations("locations/forest_of_silence.json")
+Tracker:AddLocations("locations/renons_shop.json")
+Tracker:AddLocations("locations/room_of_clocks.json")
+Tracker:AddLocations("locations/tower_of_execution.json")
+Tracker:AddLocations("locations/tower_of_science.json")
+Tracker:AddLocations("locations/tower_of_scorcery.json")
+Tracker:AddLocations("locations/tunnel.json")
+Tracker:AddLocations("locations/underground_waterway.json")
 Tracker:AddLocations("locations/villa.json")
+
 
 
 -- AutoTracking for PopTracker

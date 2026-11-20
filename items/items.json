@@ -123,7 +123,7 @@
     "name": "Special1",
     "type": "consumable",
     "min_quantity": 0,
-    "max_quantity": 20,
+    "max_quantity": 70,
     "img": "/images/items/Special1.png",
     "codes": "SP1"
   },
@@ -131,7 +131,7 @@
     "name": "Special2",
     "type": "consumable",
     "min_quantity": 0,
-    "max_quantity": 20,
+    "max_quantity": 70,
     "img": "/images/items/Special2.png",
     "codes": "SP2"
   }

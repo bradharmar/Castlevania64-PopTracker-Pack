@@ -4,26 +4,82 @@
     "access_rules": [],
     "chest_unopened_img": "",
     "chest_opened_img": "",
-    "sections": [
+    "children": [
       {
         "name": "Left Dracula door flame",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Left Dracula door flame"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "keep_map",
+            "x": 1604,
+            "y": 498
+          }
+        ]
       },
       {
         "name": "Right Dracula door flame",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Right Dracula door flame"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "keep_map",
+            "x": 1604,
+            "y": 596
+          }
+        ]
       },
       {
         "name": "Behind Draculas chamber",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Behind Dracula's chamber"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "keep_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       },
       {
         "name": "Draculas floating cube",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Dracula's Floating Cube"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "keep_map",
+            "x": 1853,
+            "y": 407
+          }
+        ]
       }
     ]
   }

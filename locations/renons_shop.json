@@ -4,41 +4,36 @@
     "access_rules": [],
     "chest_unopened_img": "",
     "chest_opened_img": "",
-    "sections": [
-      {
-        "name": "Roast Chicken purchase",
+    "children": [
+       {
+        "name": "Renon's shop",
         "access_rules": [],
-        "visibility_rules": [""]
-      },
-      {
-        "name": "Roast Beef purchase",
-        "access_rules": [],
-        "visibility_rules": [""]
-      },
-      {
-        "name": "Healing Kit purchase",
-        "access_rules": [],
-        "visibility_rules": [""]
-      },
-      {
-        "name": "Purifying purchase",
-        "access_rules": [],
-        "visibility_rules": [""]
-      },
-      {
-        "name": "Cure Ampoule purchase",
-        "access_rules": [],
-        "visibility_rules": [""]
-      },
-      {
-        "name": "Sun Card purchase",
-        "access_rules": [],
-        "visibility_rules": [""]
-      },
-      {
-        "name": "Moon Card purchase",
-        "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Roast Chicken purchase"
+          },
+          {
+            "name": "Roast Beef purchase"
+          },
+          {
+            "name": "Healing Kit purchase"
+          },
+          {
+            "name": "Purifying purchase"
+          },
+          {
+            "name":"Cure Ampoule purchase"
+          },
+          {
+            "name": "Sun Card purchase"
+          },
+          {
+            "name": "Moon Card purchase"
+          }
+        ]
       }
     ]
   }

@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Overview",
+        "children": [
+            {
+                "name": "Forest of Silence",
+                "map_locations": [
+                    {
+                        "map": "overview_map",
+                        "x": 25,
+                        "y": 25
+                    }
+                ],
+                "sections": [
+                    {
+                        "ref": "Forest of Silence/King Skeleton's bridge"
+                    },
+                    {
+                        "name": "Inside"
+                    },
+                    {
+                        "name": "Roof"
+                    },
+                    {
+                        "name": "Inside"
+                    },
+                    {
+                        "name": "Roof"
+                    },
+                    {
+                        "ref": "Forest of Silence/Were-tiger switch"
+                    },
+                    {
+                        "name": "Dirge maiden gate"
+                    },
+                    {
+                        "name": "Dirge maiden pedestal"
+                    },
+                    {
+                        "name": "Dirge maiden pedestal plaque"
+                    },
+                    {
+                        "name": "Tri-corpse save junction"
+                    },
+                    {
+                        "name": "Descending bridge wall side"
+                    },
+                    {
+                        "name": "Descending bridge switch side"
+                    },
+                    {
+                        "name": "Invisible bridge platform"
+                    },
+                    {
+                        "name": "Werewolf statue plaque"
+                    },
+                    {
+                        "name": "Werewolf path near tree"
+                    },
+                    {
+                        "name": "Werewolf path island switch platforms",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Three-crypt plaza switch"
+                    },
+                    {
+                        "name": "Right"
+                    },
+                    {
+                        "name": "Left"
+                    },
+                    {
+                        "name": "Top"
+                    },
+                    {
+                        "name": "Lower"
+                    },
+                    {
+                        "name": "Upper"
+                    },
+                    {
+                        "name": "Item 1"
+                    },
+                    {
+                        "name": "Item 2"
+                    },
+                    {
+                        "name": "Item 3"
+                    },
+                    {
+                        "name": "Item 4"
+                    },
+                    {
+                        "name": "Item 5"
+                    },
+                    {
+                        "name": "Left"
+                    },
+                    {
+                        "name": "Right"
+                    },
+                    {
+                        "name": "Lower"
+                    },
+                    {
+                        "name": "Upper-rear"
+                    },
+                    {
+                        "name": "Upper-front"
+                    },
+                    {
+                        "name": "Lower-front"
+                    },
+                    {
+                        "name": "Lower-rear"
+                    },
+                    {
+                        "name": "Upper"
+                    },
+                    {
+                        "name": "Item 1"
+                    },
+                    {
+                        "name": "Item 2"
+                    },
+                    {
+                        "name": "Item 3"
+                    },
+                    {
+                        "name": "Item 4"
+                    },
+                    {
+                        "name": "Left-front"
+                    },
+                    {
+                        "name": "Left-rear"
+                    },
+                    {
+                        "name": "Right"
+                    }
+                ]
+            }
+        ]
+    }
+]

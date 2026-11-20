@@ -4,41 +4,139 @@
     "access_rules": [],
     "chest_unopened_img": "",
     "chest_opened_img": "",
-    "sections": [
+    "children": [
       {
         "name": "Stained glass tower",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Stained glass tower"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "scorcery_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       },
-      {
+       {
         "name": "Mid-savepoint platform",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Mid-savepoint platform"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "scorcery_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       },
-      {
+       {
         "name": "Trick shot from mid-savepoint platform",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Trick shot from mid-savepoint platform"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "scorcery_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       },
-      {
+       {
         "name": "Above yellow bubble",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Above yellow bubble"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "scorcery_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       },
       {
         "name": "Above tiny blue platforms start",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Above tiny blue platforms start"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "scorcery_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       },
       {
         "name": "Lone red platform side island",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Lone red platform side island"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "scorcery_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       },
-      {
+     {
         "name": "Invisible bridge platform",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Invisible bridge platform"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "scorcery_map",
+            "x": 1853,
+            "y": 550
+          }
+        ]
       }
     ]
   }

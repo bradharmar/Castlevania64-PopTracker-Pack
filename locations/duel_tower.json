@@ -4,31 +4,69 @@
     "access_rules": [],
     "chest_unopened_img": "",
     "chest_opened_img": "",
-    "sections": [
+    "children": [
       {
         "name": "Stepping stone path start",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Stepping stone path start"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "duel_map",
+            "x": 1,
+            "y": 1
+          }
+        ]
       },
       {
         "name": "Stepping stone path end",
         "access_rules": [],
-        "visibility_rules": [""]
+        "visibility_rules": [
+          ""
+        ],"sections": [
+          {
+            "name": "Stepping stone path end"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "duel_map",
+            "x": 5,
+            "y": 5
+          }
+        ]
       },
       {
         "name": "Above Were-bull arena",
         "access_rules": [],
-        "visibility_rules": [""]
-      }
-    ],
-    "children": [
+        "visibility_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Above Were-bull arena"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "duel_map",
+            "x": 20,
+            "y": 20
+          }
+        ]
+      },
       {
         "name": "Invisible bridge balcony",
         "access_rules": [],
-        "visibility_rules": [""],
-        "chest_unopened_img": "",
-        "chest_opened_img": "",
-        "children": [],
+        "visibility_rules": [
+          ""
+        ],
         "sections": [
           {
             "name": "Left"
@@ -36,7 +74,12 @@
           {
             "name": "Right"
           }
-        ]
+        ],
+        "map_locations": [{
+          "map": "duel_map",
+          "x": 200,
+          "y": 200
+        }]
       }
     ]
   }
